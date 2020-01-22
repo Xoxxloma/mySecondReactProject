@@ -1,0 +1,17 @@
+.error-indicator {
+  width: 100%;
+  display: flex;
+  font-family: "Playfair Display", Georgia, serif;
+  flex-direction: column;
+  align-items: center;
+  color: rgb(92, 91, 91);
+}
+
+.err {
+  font-size: 80px;
+  color: rgb(44, 166, 170);
+}
+
+.error-indicator .omg {
+  font-size: 2.2rem;
+}
